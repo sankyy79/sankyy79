@@ -34,6 +34,9 @@
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" width="40" height="40"/>
 </a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="40" height="40"/>
+</a>
 
 </p>
 
